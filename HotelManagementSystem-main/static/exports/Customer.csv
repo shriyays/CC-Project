@@ -1,0 +1,3 @@
+cust_id,cust_fname,cust_lname,cust_address,cust_ph_no,status
+1,Cust1,Cust, cUST,999999999,0
+2,Cust2,Cust, c,999999998,0
