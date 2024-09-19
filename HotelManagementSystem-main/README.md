@@ -9,7 +9,7 @@ This Project requires the following tools:
 ## Getting Started
 ### Step 0: Clone the repository and cd into the project directory
 ```
-$ git clone https://github.com/AbhiSinha08/HotelManagementSystem.git
+$ git clone https://github.com/shriyays/cc-project.git
 $ cd HotelManagementSystem
 ```
 ### Step 1: Install the dependencies listed in `requirements.txt`
